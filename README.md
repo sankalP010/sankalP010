@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [MeraBharat:A Tourism Social Networking Website](https://github.com/sankalP010/MERA-BHARAT.git)
 
-- 🌱 I’m currently learning **I am currently learning computer science, where I'm turning caffeine into code and procrastination into an art form.**
+- 🌱 I’m currently learning **computer science, where I'm turning caffeine into code and procrastination into an art form.**
 
 - 💬 Ask me about **algorithms, data structures, programming languages, and software development.**
 
