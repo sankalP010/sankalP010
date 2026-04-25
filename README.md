@@ -6,9 +6,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sankalp Shrivastava</h1>
 
 ## 📌 About Me
-- I’m a backend developer transitioning into AI product engineering, focused on building practical, scalable systems.
-- My work sits at the intersection of backend engineering and applied AI — designing APIs, structuring data pipelines, and gradually integrating intelligent components into real products. I focus on clarity in system design and shipping working solutions, not just prototypes.
-- Right now, I’m actively building AI systems in public — moving from fundamentals to deployed applications, with a strong emphasis on understanding how things fail, scale, and perform in real-world scenarios.
-- I’m particularly interested in AI-powered products, backend architecture, and solving problems where intelligent systems can create measurable value.
-- Open to opportunities where I can contribute, learn fast, and build production-grade AI systems.
+💻 Backend developer transitioning into AI product engineering, focused on building practical, scalable systems
+⚙️ Working at the intersection of backend systems and applied AI — designing APIs, structuring data pipelines, and integrating intelligent components into real products
+🧠 Prioritizing clear system design and shipping production-ready solutions, not just prototypes
+🚀 Currently building AI systems in public — focusing on real-world concerns like failure modes, scalability, and performance
+🎯 Interested in AI-powered products, backend architecture, and solving problems where intelligent systems deliver measurable impact
+🤝 Open to opportunities to build, learn fast, and contribute to production-grade AI systems
 
