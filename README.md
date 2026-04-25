@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sankalp Shrivastava</h1>
-<h3 align="center">AI Product Engineer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sankalP010">
